@@ -18,7 +18,6 @@ RATE = 48000
 
 CHUNK = 2048
 BUFFER = 20000
-LEN = BUFFER + CHUNK
 
 channelsCNT = audioIn.channels
 channels = range(0, audioIn.channels)
