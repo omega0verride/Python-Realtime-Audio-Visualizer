@@ -1,0 +1,4 @@
+numpy==1.19.4
+pyqtgraph==0.12.4
+scipy==1.8.1
+SoundCard==0.4.2
